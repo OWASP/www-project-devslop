@@ -50,8 +50,6 @@ auto-migrated: 1
 <p><a href="https://www.slideshare.net/TanyaJanca/api-and-web-service-hacking-with-pixi-part-of-owasp-devslop">Slide Presentation</a></p>
 <p><a href="https://www.youtube.com/watch?v=td-2rN4PgRw&amp;feature=youtu.be">Video</a></p>
 <p><a href="https://www.youtube.com/watch?v=td-2rN4PgRw&amp;feature=youtu.be">Video</a></p>
-<p>{{#widget:PayPal Donation</p></td>
-<p>{{#widget:PayPal Donation</p></td>
 <h2 id="project_leader">Project Leader</h2>
 <p><a href="User:Tanyajanca" title="wikilink">Tanya Janca</a> <a href="https://twitter.com/shehackspurple">Twitter</a></p>
 <p>Nancy Gariché <a href="https://twitter.com/nanzgtweets">Twitter</a></p>
