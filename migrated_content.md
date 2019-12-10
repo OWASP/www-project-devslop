@@ -108,7 +108,6 @@ You're all set\!
 
 Click the button\! :)
 
-{{\#widget:PayPal Donation |target=_blank |budget=OWASP DevSlop }}
 
 **I have a great idea for new DevSlop additions, how do I tell you(s)?**
 
