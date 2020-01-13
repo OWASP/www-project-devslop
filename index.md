@@ -1,17 +1,10 @@
 ---
 
 layout: col-sidebar
-title: OWASP [Groupname]
+title: OWASP DevSlop
 tags: example-tag
 level: 0
 type: tool
-
-auto-migrated: 1
-auto-migrated: 1
-
-auto-migrated: 1
-
-auto-migrated: 1
 
 auto-migrated: 1
 
