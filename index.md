@@ -3,12 +3,12 @@
 layout: col-sidebar
 title: OWASP DevSlop
 tags: devslop
-level: 4
+level: 2
 type: code
 
 ---
 <!-- build -->
-**Welcome to OWASP DevSlop - Sloppy DevOps!**
+## Welcome to OWASP DevSlop - Sloppy DevOps!**
 
 The OWASP DevSlop project contains several modules, all with the purpose of teaching participants about DevSecOps. 
 
