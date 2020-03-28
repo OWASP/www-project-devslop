@@ -4,7 +4,6 @@ title: OWASP DevSlop
 tags: devslop, devsecops
 level: 0
 type: tool
-auto-migrated: 1
 ---
 <!-- build -->
 **Welcome to OWASP DevSlop - Sloppy DevOps!**
