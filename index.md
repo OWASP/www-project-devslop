@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
 title: OWASP DevSlop
-tags: example-tag
+tags: devslop, devsecops
 level: 0
 type: tool
 auto-migrated: 1
