@@ -1,9 +1,11 @@
 ---
+
 layout: col-sidebar
 title: OWASP DevSlop
-tags: devslop, devsecops
-level: 0
-type: tool
+tags: devslop
+level: 4
+type: code
+
 ---
 <!-- build -->
 **Welcome to OWASP DevSlop - Sloppy DevOps!**
