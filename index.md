@@ -4,13 +4,13 @@ layout: col-sidebar
 title: OWASP DevSlop
 tags: devslop
 level: 2
-type: code
+type: documentation
 
 ---
 <!-- build -->
-## Welcome to OWASP DevSlop - Sloppy DevOps!**
-
 The OWASP DevSlop project contains several modules, all with the purpose of teaching participants about DevSecOps. 
+
+The offical website of the project can be found at [https://devslop.co](https://devslop.co).
 
 ## OWASP DevSlop Modules
 DevSlop has different modules that make up the project. You can use one, some, or all of them. They are all maintained to function independantly of each other.
@@ -32,5 +32,3 @@ Code to be found [here](https://devslop.co).
 
 ## Pixi
 This module is lead by Nicole Becher with help from Mordecai Kraushar and Tanya Janca.
-
-The offical website of the project can be found at [https://devslop.co](https://devslop.co).
