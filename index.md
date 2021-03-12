@@ -5,6 +5,7 @@ title: OWASP DevSlop
 tags: devslop
 level: 2
 type: documentation
+meetup-group: OWASP-DevSlop-Project
 
 ---
 <!-- build -->
